@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Patil</h1>
-<h3 align="center">A passionate frontend developer in Germany</h3>
+<h3 align="center">👋 Guten Tag! I'm a passionate front-end developer based in Germany. With a focus on crafting seamless user experiences and a love for Angular as my framework of choice, I'm dedicated to bringing creativity and functionality to the digital world. Join me on my coding journey as I strive to create innovative solutions and delightful interfaces. Willkommen to my GitHub profile! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypatil4&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypatil4" /> </p>
 
