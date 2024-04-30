@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaypatil4" alt="akshaypatil4" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://akshay-patil-portfolio-36400.firebaseapp.com/home](https://akshay-patil-portfolio-36400.firebaseapp.com/home)
-
+- 👨‍💻 All of my projects are available at https://akshay-patil-04.web.app/
 - 💬 Ask me about **Angular, Typescript , UI Design**
 
 - 📫 How to reach me **04akshayp@gmail.com**
